@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Form Flip Animation</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="card">
+        <!-- Login Section -->
+        <div class="front">
+          <h1>Please Login</h1>
+          <form>
+            <div class="form-control">
+              <input type="text" id="email" required />
+              <label>Email</label>
+            </div>
+
+            <div class="form-control">
+              <input type="password" required />
+              <label>Password</label>
+            </div>
+
+            <button class="btn">Login</button>
+
+            <p class="text">
+              Don't have an account? <a href="#" id="register-link">Register</a>
+            </p>
+          </form>
+        </div>
+
+        <!-- Register Section -->
+        <div class="back">
+          <h1>Create Account</h1>
+          <form>
+            <div class="form-control">
+              <input type="text" id="reg-email" required />
+              <label>Email</label>
+            </div>
+
+            <div class="form-control">
+              <input type="password" required />
+              <label>Password</label>
+            </div>
+
+            <div class="form-control">
+              <input type="password" required />
+              <label>Confirm Password</label>
+            </div>
+
+            <button class="btn">Register</button>
+
+            <p class="text">
+              Already have an account? <a href="#" id="login-link">Login</a>
+            </p>
+          </form>
+        </div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
