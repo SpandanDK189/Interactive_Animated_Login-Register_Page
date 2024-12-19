@@ -9,10 +9,6 @@ This project demonstrates an elegant and interactive form design featuring a **f
 - **Responsive Design**: The form is designed to be responsive and looks great on both desktops and mobile devices.
 - **Interactive Elements**: The card flips when the user clicks on the links to switch between the login and registration forms.
 
-## Demo
-
-Check out the live demo of the project [here](#).
-
 ## Project Structure
 
 - `index.html`: The HTML structure that contains the login and registration forms.
