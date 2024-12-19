@@ -69,7 +69,7 @@ The flip effect is accomplished using **CSS 3D transforms**. When the user click
 3. Customize the form, labels, or animations to suit your needs.
 
 ```bash
-git clone https://github.com/your-username/form-flip-animation.git
+git clone https://github.com/SpandanDK189/Interactive_Animated_Login-Register_Page.git
 cd form-flip-animation
 open index.html
 ```
