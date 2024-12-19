@@ -73,12 +73,3 @@ git clone https://github.com/SpandanDK189/Interactive_Animated_Login-Register_Pa
 cd form-flip-animation
 open index.html
 ```
-
-## Credits
-
-- **Fonts**: The project uses the [Muli](https://fonts.google.com/specimen/Muli) font from Google Fonts.
-- **Design Inspiration**: The design is inspired by modern UI trends and aims to provide a clean, minimal user experience.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
